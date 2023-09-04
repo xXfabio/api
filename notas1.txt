@@ -1,0 +1,18 @@
+CRIAR PROJETO NO CODE
+
+1 - Spring initialize
+2 - 3.1.2
+3 - Java
+4 - jar 
+5 - 17
+6 - spring boot  dev tools
+7 - spring web
+8 - mysql driver
+9 - jpa spring data 
+10- lombok
+
+SISTEMA
+GERNCIADOR
+EMPRESARIAL
+
+https://www.youtube.com/watch?v=563Eb6Oc3t8&ab_channel=RalfLima
